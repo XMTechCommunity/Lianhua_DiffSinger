@@ -1,7 +1,8 @@
 # 莲华 DiffSinger
 声库试听：[（中文）一路繁花](https://www.bilibili.com/video/BV16i421Y74g)，[（日语）深海少女](https://www.bilibili.com/video/BV1Qy421v7Fz)，英语试听曲制作中<br>
 推荐使用编辑器：[OpenUtau XMTech 维护版](https://github.com/XMTechCommunity/OpenUtau)<br>
-推荐使用声码器：[Kouon Vocoder](https://github.com/Kouon-Vocoder-Project/Kouon_Vocoder)（已内置于在上方编辑器内）
+推荐使用声码器：[Kouon Vocoder](https://github.com/Kouon-Vocoder-Project/Kouon_Vocoder)（已内置于在上方编辑器内）<br>
+欢迎加入莲华相关交流群：[点我](https://qm.qq.com/q/irEeoORm2Q)
 ## 基本资料
 姓名：莲华<br>
 昵称：小哪吒、胖娃子<br>
